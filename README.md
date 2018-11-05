@@ -11,6 +11,12 @@ __Usage:__ `python instagram.py <username> <wordlist> <threads>`
 - ~~Kali Linux 2.0~~
 - ~~TOR~~
 
+### Tested on
+- Kali Linux
+- Kali Nethunter
+- Mac OS X 10.13.1
+- Windows 10
+
 ### Help
 ```
 C:\Users\Mohamed\Desktop\Instagram>python instagram.py -h
