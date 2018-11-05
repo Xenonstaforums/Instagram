@@ -14,7 +14,7 @@ __Usage:__ `python instagram.py <username> <wordlist> <threads>`
 ### Tested on
 - Kali Linux
 - Kali Nethunter
-- Mac OS X 10.13.1
+- Mac OS X 
 - Windows 10
 
 ### Help
